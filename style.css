@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800&display=swap');
+
+span{
+    color: #C5AB90;
+    font-family: 'Montserrat', sans-serif;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 85%;
+}
+a{
+    color: #029be7;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.paragraf span{
+    font-weight: 800;
+    color: black;
+
+}
